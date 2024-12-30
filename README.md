@@ -4,7 +4,7 @@
 </div>
 
 <details>
-  <summary>📊 Weekly development breakdown</summary>
+  <summary>📊 Waka time</summary>
   
   <!--START_SECTION:waka-->
 
