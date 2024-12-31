@@ -4,7 +4,7 @@
 </div>
 
 <details>
-  <summary>📊 Waka time</summary>
+  <summary>📊 Weekly Waka time</summary>
   
   <!--START_SECTION:waka-->
 
